@@ -1,7 +1,7 @@
 ### Hola a todos 👋
 
 
-* Estoy haciendo pruebas para ver como queda mi pagina de inicio
+* Mi nombre es Manuel y estudio en la ULL
 * 
 <!--
 **ManCurTru/ManCurTru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
