@@ -10,6 +10,4 @@
 - 🤔 Estoy buscando como aprender python
 - 💬 Preguntame sobre lo que quieras
 - 📫 alu0100045130@ull.edu.es
-<-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
