@@ -4,7 +4,7 @@
 * Mi nombre es Manuel y estudio en la ULL
 
 
-- 🔭 Ahora estoy trabajando en la Hosteleria
+- 🔭 Ahora estoy trabajando de mantenimiento
 - 🌱 Estoy aprendiendo cosas constantemente
 - 👯 Estoy colaborando en una patente secreta
 - 🤔 Estoy buscando como aprender python
